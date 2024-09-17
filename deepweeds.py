@@ -2,8 +2,6 @@
 import argparse
 import os
 from zipfile import ZipFile
-from urllib.request import urlopen
-import shutil
 import pandas as pd
 from time import time
 from datetime import datetime
